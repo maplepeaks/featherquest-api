@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "featherquest-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4412b6b9-24b2-4010-a796-d95e54e6cf41",
+			"database_name": "featherquest"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
